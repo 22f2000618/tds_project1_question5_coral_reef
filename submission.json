@@ -1,0 +1,8 @@
+{
+  "prompt": "214 small glowing points scattered across black void, most fading from gold to grey, represents dying coral reefs, dramatic dark composition, warm gold to cold grey transition, no ocean no water no blue colors, abstract art, melancholic atmosphere",
+  "model": "Craiyon",
+  "dataset_name": "NOAA Coral Reef Watch Regional Virtual Stations",
+  "dataset_url": "https://coralreefwatch.noaa.gov/product/vs/data.php",
+  "insight": "214 coral reef monitoring stations worldwide track the accelerating death of Earth's reef systems - half of all coral reefs have died in the last 70 years",
+  "publish_email": false
+}
